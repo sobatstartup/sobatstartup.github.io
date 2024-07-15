@@ -3,13 +3,13 @@
 	"version": "1.0.0",
 	"download_url": "https://sobatstartup.github.io/plugins/sobat-startup-extensions.zip",
 
-	"homepage": "https://themeforest.net/user/sobatstartup/",
+	"homepage": "https://sobatstartup.com/plugins/sobat-startup-extensions/",
 	"requires": "6.0",
 	"tested": "6.5",
 	"last_updated": "2024-01-01 00:00:00",
 
-	"author": "sobatstartup",
-	"author_homepage": "https://themeforest.net/user/sobatstartup/",
+	"author": "Sobat StartUp",
+	"author_homepage": "https://sobatstartup.com/",
 
 	"sections": {
 		"description": "A plugin required to activate the functionality in the Sobat StartUp themes.",
@@ -22,8 +22,8 @@
     }, 
 
 	"banners": {
-		"low": "https://sobatstartup.github.io/plugins/sobat-startup-extensions/banner.png",
-		"high": "https://sobatstartup.github.io/plugins/sobat-startup-extensions/banner.png"
+		"low": "https://sobatstartup.github.io/plugins/sobat-startup-extensions/cover.png",
+		"high": "https://sobatstartup.github.io/plugins/sobat-startup-extensions/cover.png"
 	},
 
 	"rating": 100,
